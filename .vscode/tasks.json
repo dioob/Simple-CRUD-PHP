@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "command": "chrome",
+    "windows": 
+        {
+            "command": "C:\\Program Files (x86)\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+        },
+    "args": ["localhost\\${workspaceRootFolderName}\\${fileBasename}"]
+    
+}
